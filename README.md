@@ -22,4 +22,5 @@ The LinkedIn logo is clickable and opens the developer's LinkedIn profile in a n
 
 Conclusion:
 This assignment proves the skill to create and design a neat, animated personal webpage from the ground up. It showcases the developer's knowledge of the structure of HTML, responsive CSS design, and contemporary JavaScript animation methods with GSAP. The result is a portfolio that is professional in nature, which can be utilized in searching for a job or internship and as a demonstration of web development proficiency.
-
+#OUTPUT#
+<img width="1060" height="1359" alt="Image" src="https://github.com/user-attachments/assets/34e19899-c627-4cf2-b277-0ef63c1e402d" />
